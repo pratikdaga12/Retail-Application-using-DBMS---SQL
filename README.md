@@ -14,6 +14,3 @@
 ![rplot01](https://user-images.githubusercontent.com/25045759/28239206-7943588c-6934-11e7-9254-9fe9a613b11f.png)
 
 
-### Project README: <a href="https://github.com/Uppalapa/Database-Projects/blob/master/DBMS%20Retail%20Application/README.md"/>README</a>
-### Project Link: <a href="https://github.com/Uppalapa/Database-Projects/blob/master/DBMS%20Retail%20Application/SQLQueries%2CTriggers%2CStoredProcedures%2CViews.sql"/>PROJECT CODE</a>
-### Result Report: <a href="https://github.com/Uppalapa/Database-Projects/blob/master/DBMS%20Retail%20Application/Result%20report.docx"/>REPORT</a>
